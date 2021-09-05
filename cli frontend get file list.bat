@@ -1,0 +1,1 @@
+java -jar CFTfileStoreFrontend-1.0-SNAPSHOT.jar get_files_list

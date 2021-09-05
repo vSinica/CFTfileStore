@@ -1,0 +1,1 @@
+java -jar CFTfileStoreFrontend-1.0-SNAPSHOT.jar put_file C:\CFTfileStore\Screenshot_2.jpg

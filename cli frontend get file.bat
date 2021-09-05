@@ -1,0 +1,1 @@
+java -jar CFTfileStoreFrontend-1.0-SNAPSHOT.jar get_file Screenshot_2.jpg C:\CFTfileStore\newscreen.jpg
